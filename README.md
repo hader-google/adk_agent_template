@@ -1,1 +1,1 @@
-ADK Agent Template Repository
+ADK Agent Template Repository {{PROJECT_NAME}}
